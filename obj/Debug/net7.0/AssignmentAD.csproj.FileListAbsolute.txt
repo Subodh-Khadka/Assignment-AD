@@ -1,0 +1,14 @@
+C:\Users\khadk\source\repos\AssignmentAD\bin\Debug\net7.0\AssignmentAD.exe
+C:\Users\khadk\source\repos\AssignmentAD\bin\Debug\net7.0\AssignmentAD.deps.json
+C:\Users\khadk\source\repos\AssignmentAD\bin\Debug\net7.0\AssignmentAD.runtimeconfig.json
+C:\Users\khadk\source\repos\AssignmentAD\bin\Debug\net7.0\AssignmentAD.dll
+C:\Users\khadk\source\repos\AssignmentAD\bin\Debug\net7.0\AssignmentAD.pdb
+C:\Users\khadk\source\repos\AssignmentAD\obj\Debug\net7.0\AssignmentAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khadk\source\repos\AssignmentAD\obj\Debug\net7.0\AssignmentAD.AssemblyInfoInputs.cache
+C:\Users\khadk\source\repos\AssignmentAD\obj\Debug\net7.0\AssignmentAD.AssemblyInfo.cs
+C:\Users\khadk\source\repos\AssignmentAD\obj\Debug\net7.0\AssignmentAD.csproj.CoreCompileInputs.cache
+C:\Users\khadk\source\repos\AssignmentAD\obj\Debug\net7.0\AssignmentAD.dll
+C:\Users\khadk\source\repos\AssignmentAD\obj\Debug\net7.0\refint\AssignmentAD.dll
+C:\Users\khadk\source\repos\AssignmentAD\obj\Debug\net7.0\AssignmentAD.pdb
+C:\Users\khadk\source\repos\AssignmentAD\obj\Debug\net7.0\AssignmentAD.genruntimeconfig.cache
+C:\Users\khadk\source\repos\AssignmentAD\obj\Debug\net7.0\ref\AssignmentAD.dll
